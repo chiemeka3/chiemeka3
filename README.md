@@ -2,7 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 - <b>Identity and Access Management (IAM) <b> <br/>
- I defined roles and responsibilities within the IAM project team, designed IAM Policies, Implemented Authentication Mechanisms, Set Up User and Group Management, Implemented Access Controls, monitored and Audited Access (Enabled AWS CloudTrail), and finally I tested and validated it.
+ I defined roles and responsibilities within the IAM project team, designed IAM Policies, Implemented Authentication Mechanisms, Set Up User and Group Management, Implemented Access Controls, monitored and Audited Access (Enabled AWS CloudTrail), and finally I tested and validated it. <br/><br/>
+ - <b>Network Vulnerability Assessment <b> <br/>
+ Conducted a comprehensive vulnerability assessment of a network using both Nessus and Nmap. Identified and prioritized vulnerabilities based on their severity and potential impact on the network and Developed mitigation strategies to address identified vulnerabilities and enhance network security. <br/><br/>
+ - <b>Penetration Testing <b> <br/>
+ Performed penetration testing on a network to identify potential security weaknesses and exploited them as an attacker would using Kali Linux to simulate attacks and assess the effectiveness of existing security controls.
+
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Business Website</b>
