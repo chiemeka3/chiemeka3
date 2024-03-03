@@ -1,7 +1,8 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/chiemeka3">Programmer</a> & <a href="https://www.linkedin.com/in/david-nwabuike-830156253">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
-
+- <b>Identity and Access Management (IAM) <b> <br/>
+ I defined roles and responsibilities within the IAM project team, designed IAM Policies, Implemented Authentication Mechanisms, Set Up User and Group Management, Implemented Access Controls, monitored and Audited Access (Enabled AWS CloudTrail), and finally I tested and validated it.
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Business Website</b>
